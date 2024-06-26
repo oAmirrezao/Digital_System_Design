@@ -1,0 +1,15 @@
+C:/Users/ASUS/OneDrive/Documents/Semester4/DSD/midterm_q8(myslef)/tb.v {1 {vlog -work work C:/Users/ASUS/OneDrive/Documents/Semester4/DSD/midterm_q8(myslef)/tb.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module tb
+
+Top level modules:
+	tb
+
+} {} {}} C:/Users/ASUS/OneDrive/Documents/Semester4/DSD/midterm_q8(myslef)/parking.v {1 {vlog -work work C:/Users/ASUS/OneDrive/Documents/Semester4/DSD/midterm_q8(myslef)/parking.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module parking
+
+Top level modules:
+	parking
+
+} {} {}}

@@ -1,0 +1,43 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\ASUS\OneDrive\Documents\Semester4\DSD\midterm_q8
+vparking
+Z1 !s100 Yd]LenGfn:PHUMj1XS^k01
+Z2 Ii_UHKS332BP^A1^>Za16H3
+Z3 VgV2Q4IM[fg>d9C74RMgZK3
+Z4 dC:\Users\ASUS\OneDrive\Documents\Semester4\DSD\midterm_q8(myslef)
+Z5 w1719405596
+Z6 8C:/Users/ASUS/OneDrive/Documents/Semester4/DSD/midterm_q8(myslef)/parking.v
+Z7 FC:/Users/ASUS/OneDrive/Documents/Semester4/DSD/midterm_q8(myslef)/parking.v
+L0 1
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -reportprogress|300|-work|work|C:/Users/ASUS/OneDrive/Documents/Semester4/DSD/midterm_q8(myslef)/parking.v|
+Z10 o-work work -O0
+!i10b 1
+!s85 0
+Z11 !s108 1719415531.623000
+Z12 !s107 C:/Users/ASUS/OneDrive/Documents/Semester4/DSD/midterm_q8(myslef)/parking.v|
+!s101 -O0
+vtb
+!i10b 1
+!s100 jh:WKQSOi6@3akK3R?c<Q2
+IjU5JEmiL_o8]M@dRPYh]g2
+Z13 VV@Xn<HnSRM[I5c1?BH]3a3
+R4
+w1719415527
+Z14 8C:/Users/ASUS/OneDrive/Documents/Semester4/DSD/midterm_q8(myslef)/tb.v
+Z15 FC:/Users/ASUS/OneDrive/Documents/Semester4/DSD/midterm_q8(myslef)/tb.v
+L0 1
+R8
+r1
+!s85 0
+31
+!s108 1719415531.670000
+!s107 C:/Users/ASUS/OneDrive/Documents/Semester4/DSD/midterm_q8(myslef)/tb.v|
+Z16 !s90 -reportprogress|300|-work|work|C:/Users/ASUS/OneDrive/Documents/Semester4/DSD/midterm_q8(myslef)/tb.v|
+!s101 -O0
+R10
