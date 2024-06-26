@@ -41,11 +41,7 @@ Here is a screenshot of running Modelsim:
 
 ## Results
 After successfully running the parking module, we will encounter the following page:
-![photo_2024-06-07 19 41 24](https://github.com/Sharif-University-ESRLab/spring2024-uefi-calculator/assets/79264802/6c32d45f-e3e1-419c-96f6-4d13a738ea18)
 
-Now we will run some calculations to make sure that our application works fine:
-![photo_2024-06-07 19 41 20](https://github.com/Sharif-University-ESRLab/spring2024-uefi-calculator/assets/79264802/53f19d14-7707-4a88-be4c-71d3725e3bad)
-![photo_2024-06-07 19 41 20](https://github.com/Sharif-University-ESRLab/spring2024-uefi-calculator/assets/79264802/2cc61c60-7268-47b5-9a01-86b038c7da2d)
 
 
 
