@@ -5,14 +5,13 @@
 
 # Parking
 
-Our Project is a UEFI Calculator that is capable of basic mathematical operations with a minimal UI.
+Our Project is a Parking that is capable of handling logic of a special parking for a university.
 
 
 ## Tools
 In this section, you should mention the hardware or simulators utilized in your project.
-- Qemu
-- OVMP
-- EDK2
+- Modelsim
+- Quartus
 
 
 ## Implementation Details
@@ -28,8 +27,13 @@ To run the application first download the folder. then open it in modelsim app. 
 
 Here is a screenshot of running Modelsim:
 
-![image](https://github.com/oAmirrezao/Digital_System_Design/assets/119684561/326e5f28-a33a-425a-93e4-575dfade2c60)
+![image](https://github.com/oAmirrezao/Digital_System_Design/assets/119684561/978f8285-1ed4-4f92-9cec-a59201c50e8d)
 
+![image](https://github.com/oAmirrezao/Digital_System_Design/assets/119684561/9e976f68-e5c6-4f0f-bb9c-386fc6b02474)
+
+![image](https://github.com/oAmirrezao/Digital_System_Design/assets/119684561/b75968df-bfe8-4e66-b4e5-043d7deee999)
+
+![image](https://github.com/oAmirrezao/Digital_System_Design/assets/119684561/5e94c8ba-63f1-467c-b387-43b2d251aae1)
 
 
 
