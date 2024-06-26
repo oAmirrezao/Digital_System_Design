@@ -1,5 +1,6 @@
 
-![LOGO](https://github.com/Sharif-University-ESRLab/spring2024-uefi-calculator/assets/79264802/88ffe13b-b0a1-4777-909d-6388c96c0ecc)
+![image](https://github.com/oAmirrezao/Digital_System_Design/assets/119684561/c8c27dce-f2e6-4e59-bcb7-64462d91dfd6)
+
 
 
 
