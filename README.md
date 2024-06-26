@@ -26,9 +26,9 @@ Feel free to use sub-topics for your projects. If your project consists of multi
 
 To run the application first download the folder. then open it in modelsim app. then right click on any file and click on the compile all option. wait some seconds. then on top bar of modelsim click on Simulate option and click on start simulation option. then find the work folder and click on the plus next to the work folder. then click on ok and after some seconds add parts which you want to see from view on top bar of modelsim. for examle you can add wave. after that on top bar of modelsim find the Run_all option and click on it. that all.
 
-Here is a screenshot of running QEMU:
+Here is a screenshot of running Modelsim:
 
-![photo_2024-06-07 19 41 27](https://github.com/Sharif-University-ESRLab/spring2024-uefi-calculator/assets/79264802/fd07cb51-31d5-4ab3-ab80-43c457321b84)
+![image](https://github.com/oAmirrezao/Digital_System_Design/assets/119684561/326e5f28-a33a-425a-93e4-575dfade2c60)
 
 
 
