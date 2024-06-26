@@ -17,7 +17,16 @@ In this section, you should mention the hardware or simulators utilized in your 
 
 ## Implementation Details
 
-In this section, you will explain how you completed your project. It is recommended to use pictures to demonstrate your system model and implementation.
+When posedge start happens, i.e. the start key is pressed, program values ​​are initialized.
+Next, if we see the rising edge of the clock, it means that one hour has passed. For example, if we are at 10 o'clock and see the rising edge of the clock, it will be 11 o'clock.
+Now, according to the time we are in, we decide what values ​​to give to our variables. If the hour was less than 13 (ie less than 12), the capacities do not change. If the hour was between [13, 15], according to the question, 50 cars will be added to the parking capacity of free cars every hour. For example, when the clock changes from 12 to 13, the free capacity changes from 200 people to 250 people. Finally, at 15:00, the free capacity is equal to 350 cars. Then, at 4:00 p.m., the capacity of free cars will increase to 500 cars. And after that hour, there will be no change in the capacity of the cars.
+According to the logic we have implemented, the rising edge has priority over the rising edge of car_entered and car_exited. And naturally, this is not the only way to implement this program. Another can be taken.
+Finally, if we see posedge car_entered or posedge car_exited, we act as described below.
+If we see posedge car_entered or posedge car_exited, it means that a car is about to enter or leave the parking lot. (In the logic that we have implemented, it is possible for two cars to enter and exit at the same time. That is, one car can enter and another car can leave at the same time. Like real parking lots.)
+If car_entered was equal to 1, we pay attention to its type, that is, whether that car belongs to the university staff or a free car. And according to the type of car and parking capacity for each section, we decide whether that car will enter the parking lot or not.
+But for car_exited, because it doesn't matter if the parking lot is full, the car will leave it in any case, and according to the type of car (free or owned by the university), the capacity of that section will be increased by one.
+
+(Note that according to the values ​​that the variables are supposed to store, their type and number of bits are determined. For example, because the maximum capacity at all hours for university cars or free cars is 500, a 9-bit register for them in We considered that they can store all the values.)
 
 
 Feel free to use sub-topics for your projects. If your project consists of multiple parts (e.g. server, client, and embedded device), create a separate topic for each one.
