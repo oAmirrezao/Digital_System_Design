@@ -49,7 +49,8 @@ Here is a screenshot of running Modelsim:
 
 
 ## Results
-After successfully running the parking module, we will encounter the following page:
+Finally, we implemented the parking project successfully and we can see the results in wave files and VCD files or through the console.
+From this exercise, we conclude that the maximum frequency produced by the circuit is equal to the inverse of the minimum delay available in the circuit. 
 
 
 
